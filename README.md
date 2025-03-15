@@ -5,7 +5,7 @@ Prop review is a lightweight desktop app that lets you organise and review taken
 # Why Prop Review?
 
 - Accelerate the feedback loop by adding screenshots, long-form comments & rough % for each trade taken.
-- See how many trades you are taking each week and month on the calendar
+- See how many trades you are taking each week and month on the calendar.
 - Easily filter trades per prop firm account.
 - Make month, week & day comments.
 
